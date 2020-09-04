@@ -2,7 +2,7 @@
 ### A web app for students and teachers for uploading downloading pdfs through their login 
 ### Also gives the option to take quizzes.
 ### merging of pdf's and splitting of PDFs can also be done
-### Authenatication for account has been provided. There is also an option for users to update their passwords.
+### Authentication for account has been provided. There is also an option for users to update their passwords.
 
 Team members:
 
